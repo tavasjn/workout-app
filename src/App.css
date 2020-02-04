@@ -1,5 +1,15 @@
 @media (max-width: 500px) {
-  
+    .header-main{
+        height: 10vh;
+        width: 100vw;
+        background-color: navy;
+    }
+    .header-buttons{
+        height: 10vh;
+        width: 15vw;
+        background-color: black;
+        color: whitesmoke;
+    }
 }
 
 @media (min-width: 700px) {
